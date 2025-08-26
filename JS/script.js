@@ -34,4 +34,5 @@ document.addEventListener('DOMContentLoaded', () => {
     botonCerrar.addEventListener('click', () => {
         modal.style.display = 'none';
     });
-});
+
+
