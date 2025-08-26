@@ -6,7 +6,7 @@ body {
     color: #333333;
 
     /* Propiedades para la imagen de fondo */
-    background-image: url('../IMG/img1.jpg');
+    background-image: url('../img/img1.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -146,7 +146,4 @@ footer {
     padding: 1.5rem 0;
     background-color: #333333;
     color: white;
-
 }
-
-
